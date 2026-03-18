@@ -6,7 +6,7 @@ Cutroom is an AI-assisted video production platform built to turn a topic into a
 
 - Built a **7-stage production pipeline** that coordinates research, scripting, voice, music, visuals, editing, and publishing
 - Developed with **TypeScript, Next.js, Prisma, PostgreSQL, and Remotion**
-- Shipped a product with **tested API routes, pipeline logic, and stage handlers** (`323` tests currently passing locally)
+- Shipped a product with **tested API routes, pipeline logic, and stage handlers** (300+ tests currently passing locally)
 - Designed for **real workflow visibility**, including pipeline progress, stage ownership, and template-driven output
 - Extended the platform with **15+ reusable video templates** for different content formats
 
